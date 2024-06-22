@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-22T13:25:55 IST" name="Default suite" finished-at="2024-06-22T13:25:55 IST" duration-ms="44">
+    <groups>
+    </groups>
+    <test started-at="2024-06-22T13:25:55 IST" name="Default test" finished-at="2024-06-22T13:25:55 IST" duration-ms="44">
+      <class name="Advanced.Testing">
+        <test-method signature="methodTesting1()[pri:0, instance:Advanced.Testing@4690b489]" started-at="2024-06-22T13:25:55 IST" name="methodTesting1" finished-at="2024-06-22T13:25:55 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodTesting1 -->
+        <test-method signature="methodTesting2()[pri:0, instance:Advanced.Testing@4690b489]" started-at="2024-06-22T13:25:55 IST" name="methodTesting2" finished-at="2024-06-22T13:25:55 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodTesting2 -->
+        <test-method signature="methodTesting3()[pri:0, instance:Advanced.Testing@4690b489]" started-at="2024-06-22T13:25:55 IST" name="methodTesting3" finished-at="2024-06-22T13:25:55 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodTesting3 -->
+        <test-method signature="methodTesting4()[pri:0, instance:Advanced.Testing@4690b489]" started-at="2024-06-22T13:25:55 IST" name="methodTesting4" finished-at="2024-06-22T13:25:55 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodTesting4 -->
+        <test-method signature="methodTesting5()[pri:0, instance:Advanced.Testing@4690b489]" started-at="2024-06-22T13:25:55 IST" name="methodTesting5" finished-at="2024-06-22T13:25:55 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodTesting5 -->
+        <test-method signature="methodTesting6()[pri:0, instance:Advanced.Testing@4690b489]" started-at="2024-06-22T13:25:55 IST" name="methodTesting6" finished-at="2024-06-22T13:25:55 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodTesting6 -->
+      </class> <!-- Advanced.Testing -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="3" parallel="tests" name="Failed suite [Suite1]" guice-stage="DEVELOPMENT">
+  <test thread-count="3" parallel="tests" name="TestOnChrome(failed)">
+    <parameter name="browserName" value="Chrome"/>
+    <classes>
+      <class name="Advanced.multiBrowseTesting">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="testGoogleSearch"/>
+        </methods>
+      </class> <!-- Advanced.multiBrowseTesting -->
+    </classes>
+  </test> <!-- TestOnChrome(failed) -->
+</suite> <!-- Failed suite [Suite1] -->
